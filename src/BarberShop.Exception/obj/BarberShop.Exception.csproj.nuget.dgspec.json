@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Exception\\BarberShop.Exception.csproj": {}
+    "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Exception\\BarberShop.Exception.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Exception\\BarberShop.Exception.csproj": {
+    "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Exception\\BarberShop.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Exception\\BarberShop.Exception.csproj",
+        "projectUniqueName": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Exception\\BarberShop.Exception.csproj",
         "projectName": "BarberShop.Exception",
-        "projectPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Exception\\BarberShop.Exception.csproj",
+        "projectPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Exception\\BarberShop.Exception.csproj",
         "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Exception\\obj\\",
+        "outputPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Exception\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhon\\AppData\\Roaming\\NuGet\\NuGet.Config"

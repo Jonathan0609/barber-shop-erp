@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Infra\\BarberShop.Infra.csproj": {}
+    "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Infra\\BarberShop.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj": {
+    "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj",
         "projectName": "BarberShop.Domain",
-        "projectPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj",
+        "projectPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj",
         "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Infra\\BarberShop.Infra.csproj": {
+    "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Infra\\BarberShop.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Infra\\BarberShop.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Infra\\BarberShop.Infra.csproj",
         "projectName": "BarberShop.Infra",
-        "projectPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Infra\\BarberShop.Infra.csproj",
+        "projectPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Infra\\BarberShop.Infra.csproj",
         "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Infra\\obj\\",
+        "outputPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,8 +85,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj"
+              "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj"
               }
             }
           }

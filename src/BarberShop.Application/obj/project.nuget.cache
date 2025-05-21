@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iuEyp3SMe08=",
+  "dgSpecHash": "yG2yaVizozU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Application\\BarberShop.Application.csproj",
+  "projectFilePath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Application\\BarberShop.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jhon\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Jhon\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",

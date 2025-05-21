@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gbqzQJMVPxw=",
+  "dgSpecHash": "N9mKfVBjsyc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\src\\BarberShop.Domain\\BarberShop.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

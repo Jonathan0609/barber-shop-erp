@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "obYSMblGg1s=",
+  "dgSpecHash": "q2wXL/jFluo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj",
+  "projectFilePath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jhon\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Jhon\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

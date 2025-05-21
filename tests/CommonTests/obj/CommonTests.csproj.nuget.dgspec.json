@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj": {}
+    "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj": {
+    "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj",
+        "projectUniqueName": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj",
         "projectName": "CommonTests",
-        "projectPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj",
+        "projectPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\tests\\CommonTests\\CommonTests.csproj",
         "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhon\\Projetos_rocketseat_csharp\\barber-shop-erp\\tests\\CommonTests\\obj\\",
+        "outputPath": "C:\\Users\\Jhon\\RiderProjects\\barber-shop-erp\\tests\\CommonTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhon\\AppData\\Roaming\\NuGet\\NuGet.Config"
