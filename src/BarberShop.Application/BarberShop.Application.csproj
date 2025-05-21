@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\tests\CommonTests\CommonTests.csproj" />
+      <ProjectReference Include="..\..\UseCases.Tests\UseCases.Tests.csproj" />
+      <ProjectReference Include="..\..\Validators.Tests\Validators.Tests.csproj" />
+      <ProjectReference Include="..\BarberShop.Domain\BarberShop.Domain.csproj" />
+      <ProjectReference Include="..\BarberShop.Exception\BarberShop.Exception.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" Version="12.0.0" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.5" />
+    </ItemGroup>
+
+</Project>
