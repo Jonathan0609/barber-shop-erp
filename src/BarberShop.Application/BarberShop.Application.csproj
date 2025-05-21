@@ -8,8 +8,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\tests\CommonTests\CommonTests.csproj" />
-      <ProjectReference Include="..\..\UseCases.Tests\UseCases.Tests.csproj" />
-      <ProjectReference Include="..\..\Validators.Tests\Validators.Tests.csproj" />
       <ProjectReference Include="..\BarberShop.Domain\BarberShop.Domain.csproj" />
       <ProjectReference Include="..\BarberShop.Exception\BarberShop.Exception.csproj" />
     </ItemGroup>

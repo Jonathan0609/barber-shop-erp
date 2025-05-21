@@ -7,11 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\UseCases.Tests\UseCases.Tests.csproj" />
-      <ProjectReference Include="..\..\Validators.Tests\Validators.Tests.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
       <EmbeddedResource Update="ResourceErrorMessages.resx">
         <Generator>PublicResXFileCodeGenerator</Generator>
         <LastGenOutput>ResourceErrorMessages.Designer.cs</LastGenOutput>

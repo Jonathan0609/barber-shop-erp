@@ -6,9 +6,4 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\..\UseCases.Tests\UseCases.Tests.csproj" />
-      <ProjectReference Include="..\..\Validators.Tests\Validators.Tests.csproj" />
-    </ItemGroup>
-
 </Project>

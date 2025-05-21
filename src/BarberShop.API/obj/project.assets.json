@@ -2099,9 +2099,7 @@
           "BarberShop.Exception": "1.0.0",
           "CommonTests": "1.0.0",
           "FluentValidation": "12.0.0",
-          "Microsoft.Extensions.DependencyInjection": "9.0.5",
-          "UseCases.Tests": "1.0.0",
-          "Validators.Tests": "1.0.0"
+          "Microsoft.Extensions.DependencyInjection": "9.0.5"
         },
         "compile": {
           "bin/placeholder/BarberShop.Application.dll": {}
@@ -2113,10 +2111,6 @@
       "BarberShop.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "UseCases.Tests": "1.0.0",
-          "Validators.Tests": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/BarberShop.Domain.dll": {}
         },
@@ -2127,10 +2121,6 @@
       "BarberShop.Exception/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "UseCases.Tests": "1.0.0",
-          "Validators.Tests": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/BarberShop.Exception.dll": {}
         },
@@ -2166,38 +2156,6 @@
         },
         "runtime": {
           "bin/placeholder/CommonTests.dll": {}
-        }
-      },
-      "UseCases.Tests/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "17.8.0",
-          "coverlet.collector": "6.0.0",
-          "xunit": "2.5.3",
-          "xunit.runner.visualstudio": "2.5.3"
-        },
-        "compile": {
-          "bin/placeholder/UseCases.Tests.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UseCases.Tests.dll": {}
-        }
-      },
-      "Validators.Tests/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "17.8.0",
-          "coverlet.collector": "6.0.0",
-          "xunit": "2.5.3",
-          "xunit.runner.visualstudio": "2.5.3"
-        },
-        "compile": {
-          "bin/placeholder/Validators.Tests.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Validators.Tests.dll": {}
         }
       }
     }
@@ -6812,16 +6770,6 @@
       "type": "project",
       "path": "../../tests/CommonTests/CommonTests.csproj",
       "msbuildProject": "../../tests/CommonTests/CommonTests.csproj"
-    },
-    "UseCases.Tests/1.0.0": {
-      "type": "project",
-      "path": "../../UseCases.Tests/UseCases.Tests.csproj",
-      "msbuildProject": "../../UseCases.Tests/UseCases.Tests.csproj"
-    },
-    "Validators.Tests/1.0.0": {
-      "type": "project",
-      "path": "../../Validators.Tests/Validators.Tests.csproj",
-      "msbuildProject": "../../Validators.Tests/Validators.Tests.csproj"
     }
   },
   "projectFileDependencyGroups": {
