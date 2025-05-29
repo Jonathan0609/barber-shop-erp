@@ -1,6 +1,7 @@
 using BarberShop.API.Middleware;
 using BarberShop.Application.Configurations;
 using BarberShop.Infra.Configurations;
+using BarberShop.Infra.Migrations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,4 +31,14 @@ app.MapControllers();
 
 app.UseHttpsRedirection();
 
+await MigrateDatabase();
+
 app.Run();
+
+async Task MigrateDatabase()
+{
+    // Create scope for access dependency injection
+    await using var scope = app.Services.CreateAsyncScope();
+
+    await DatabaseMigration.MigrateDatabase(scope.ServiceProvider);
+}
